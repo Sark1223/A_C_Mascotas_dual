@@ -1,0 +1,258 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{2BC2EBD5-977F-4255-A62C-47CCD42C89E0}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>A.C.Mascotas_Vulnerables___DB</RootNamespace>
+    <AssemblyName>A.C.Mascotas_Vulnerables___DB</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Bunifu_UI_v1.52">
+      <HintPath>..\..\..\..\..\..\..\..\Downloads\Bunifu_UI_v1.52.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Management" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="BLL\ReciboBLL.cs" />
+    <Compile Include="BLL\SocioBLL.cs" />
+    <Compile Include="BLL\UsuarioBLL.cs" />
+    <Compile Include="DAL\BuscadorDAL.cs" />
+    <Compile Include="DAL\Conexion.cs" />
+    <Compile Include="DAL\InicioSesionDaL.cs" />
+    <Compile Include="DAL\LugarDAL.cs" />
+    <Compile Include="DAL\PeriodoDAL.cs" />
+    <Compile Include="DAL\ReciboDAL.cs" />
+    <Compile Include="DAL\SocioDAL.cs" />
+    <Compile Include="DAL\UsuarioDAL.cs" />
+    <Compile Include="PL\frmAportacion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PL\frmAportacion.Designer.cs">
+      <DependentUpon>frmAportacion.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PL\frmBuscador.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PL\frmBuscador.Designer.cs">
+      <DependentUpon>frmBuscador.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PL\frmEstadoRecibo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PL\frmEstadoRecibo.Designer.cs">
+      <DependentUpon>frmEstadoRecibo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PL\frmHistorial.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PL\frmHistorial.Designer.cs">
+      <DependentUpon>frmHistorial.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PL\frmLugar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PL\frmLugar.Designer.cs">
+      <DependentUpon>frmLugar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PL\frmMenu_Principal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PL\frmMenu_Principal.Designer.cs">
+      <DependentUpon>frmMenu_Principal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="InicioSesion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="InicioSesion.Designer.cs">
+      <DependentUpon>InicioSesion.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PL\frmNuevaAportacion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PL\frmNuevaAportacion.Designer.cs">
+      <DependentUpon>frmNuevaAportacion.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PL\frmEdit_Socios.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PL\frmEdit_Socios.Designer.cs">
+      <DependentUpon>frmEdit_Socios.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PL\frmEdit_Usuario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PL\frmEdit_Usuario.Designer.cs">
+      <DependentUpon>frmEdit_Usuario.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PL\frmPeriodo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PL\frmPeriodo.Designer.cs">
+      <DependentUpon>frmPeriodo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PL\frmSocios.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PL\frmSocios.Designer.cs">
+      <DependentUpon>frmSocios.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PL\frmUsuarios.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PL\frmUsuarios.Designer.cs">
+      <DependentUpon>frmUsuarios.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="PL\frmAportacion.resx">
+      <DependentUpon>frmAportacion.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PL\frmBuscador.resx">
+      <DependentUpon>frmBuscador.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PL\frmEstadoRecibo.resx">
+      <DependentUpon>frmEstadoRecibo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PL\frmHistorial.resx">
+      <DependentUpon>frmHistorial.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PL\frmLugar.resx">
+      <DependentUpon>frmLugar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PL\frmMenu_Principal.resx">
+      <DependentUpon>frmMenu_Principal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="InicioSesion.resx">
+      <DependentUpon>InicioSesion.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PL\frmNuevaAportacion.resx">
+      <DependentUpon>frmNuevaAportacion.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PL\frmEdit_Socios.resx">
+      <DependentUpon>frmEdit_Socios.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PL\frmEdit_Usuario.resx">
+      <DependentUpon>frmEdit_Usuario.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PL\frmPeriodo.resx">
+      <DependentUpon>frmPeriodo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PL\frmSocios.resx">
+      <DependentUpon>frmSocios.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PL\frmUsuarios.resx">
+      <DependentUpon>frmUsuarios.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\mascota.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cerrar.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Equis.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\perro.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\50 Cats Acting So Cute, People Just Had To Stop And Snap A Picture.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Ŧσllσฬ ๓є %40ღ Ꮙαƪƪεȵα ღ #Corgi.jfif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\estilo-grafico.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\mujer %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\hucha.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\lupa %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\agregar-usuario %283%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\localizacion.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\usuario %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\editar %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\borrar %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\calendario.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\justicia-social.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

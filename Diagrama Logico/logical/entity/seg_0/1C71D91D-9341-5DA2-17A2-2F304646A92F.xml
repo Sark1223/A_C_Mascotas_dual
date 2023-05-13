@@ -1,0 +1,134 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<Entity class="oracle.dbtools.crest.model.design.logical.Entity" directorySegmentName="seg_0" id="1C71D91D-9341-5DA2-17A2-2F304646A92F" name="RECIBO">
+<createdBy>edwin</createdBy>
+<createdTime>2023-03-09 15:04:15 UTC</createdTime>
+<ownerDesignName>Diagrama Logico</ownerDesignName>
+<adequatelyNormalized>NO</adequatelyNormalized>
+<expectedVolumes>0</expectedVolumes>
+<fwdEngineeringStrategyName>Single Table</fwdEngineeringStrategyName>
+<growthPercent>0</growthPercent>
+<growthType>Year</growthType>
+<maxVolumes>9999999</maxVolumes>
+<minVolumes>0</minVolumes>
+<normalForm>Third</normalForm>
+<attributes itemClass="oracle.dbtools.crest.model.design.logical.Attribute">
+<Attribute name="REC_ID_FOLIO" id="6B1E3301-BC22-3EF8-C633-23287ED122B1">
+<createdBy>edwin</createdBy>
+<createdTime>2023-03-09 15:04:15 UTC</createdTime>
+<ownerDesignName>Diagrama Logico</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT011</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+</Attribute>
+<Attribute name="REC_FECHA" id="FEB27D60-4B0B-EDEA-5F8F-92BA14A1F67D">
+<createdBy>erick</createdBy>
+<createdTime>2023-03-15 22:32:13 UTC</createdTime>
+<ownerDesignName>Diagrama Logico</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT007</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+</Attribute>
+<Attribute name="USUARIO_ID" id="E70CBB59-3FE2-DAD1-4E9D-D61E71101181">
+<createdBy>perro</createdBy>
+<createdTime>2023-04-13 02:21:57 UTC</createdTime>
+<generatorID>E300BB75-ED59-BD45-DC45-0FCF0B5B9DE3</generatorID>
+<ownerDesignName>Diagrama Logico</ownerDesignName>
+<referedAttribute>12ED40C7-1CF3-2220-D691-D1055A2E7A7C</referedAttribute>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT042</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+</Attribute>
+<Attribute name="SOCIO_ID" id="DAFCBE61-3E12-C8F8-CAAC-4803B9DB2AE8">
+<createdBy>erick</createdBy>
+<createdTime>2023-03-15 23:09:46 UTC</createdTime>
+<generatorID>D32E4DE5-C2A3-F708-2AE9-2C88DE4A2665</generatorID>
+<ownerDesignName>Diagrama Logico</ownerDesignName>
+<referedAttribute>1C9977AD-A917-18E8-C30F-57BCCDD12573</referedAttribute>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT024</logicalDatatype>
+<dataTypeSize>7 CHAR</dataTypeSize>
+<ownDataTypeParameters>7 CHAR,,</ownDataTypeParameters>
+</Attribute>
+<Attribute name="REC_MONTO" id="3A1160E2-6FFC-ED11-0967-213BA7F260C9">
+<createdBy>erick</createdBy>
+<createdTime>2023-03-15 22:32:39 UTC</createdTime>
+<ownerDesignName>Diagrama Logico</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT019</logicalDatatype>
+<dataTypePrecision>11</dataTypePrecision>
+<dataTypeScale>2</dataTypeScale>
+<ownDataTypeParameters>,11,2</ownDataTypeParameters>
+</Attribute>
+<Attribute name="REC_MTO_ESCRITO" id="0C04CF67-5C82-ABB2-D967-6E37BF1AE92E">
+<createdBy>erick</createdBy>
+<createdTime>2023-03-15 22:33:10 UTC</createdTime>
+<ownerDesignName>Diagrama Logico</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT024</logicalDatatype>
+<dataTypeSize>100</dataTypeSize>
+<ownDataTypeParameters>100,,</ownDataTypeParameters>
+</Attribute>
+<Attribute name="ID_ESTATUS" id="F0F0C26B-8C08-006B-236C-9ECE15759F59">
+<createdBy>erick</createdBy>
+<createdTime>2023-03-15 22:51:03 UTC</createdTime>
+<generatorID>8D2304BA-86CF-2B38-EB1B-9A3E3A7D78B5</generatorID>
+<ownerDesignName>Diagrama Logico</ownerDesignName>
+<referedAttribute>81B9F5C1-C60F-D8E1-82F5-07165CC119AF</referedAttribute>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT024</logicalDatatype>
+<dataTypeSize>4</dataTypeSize>
+<ownDataTypeParameters>4,,</ownDataTypeParameters>
+</Attribute>
+<Attribute name="PERIODO_CLAVE" id="482475F9-3304-A497-7F2F-522C6E2D668F">
+<createdBy>perro</createdBy>
+<createdTime>2023-04-13 02:20:46 UTC</createdTime>
+<generatorID>9A215B77-85CB-913E-AE97-10ACA9E4E1D1</generatorID>
+<ownerDesignName>Diagrama Logico</ownerDesignName>
+<referedAttribute>CF8522A8-42C0-6525-4C7B-F129AB792B9D</referedAttribute>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT024</logicalDatatype>
+<dataTypeSize>20 CHAR</dataTypeSize>
+<ownDataTypeParameters>20 CHAR,,</ownDataTypeParameters>
+</Attribute>
+<Attribute name="REC_FIRMA_ASISTENTE" id="D8EE6E70-3FE0-4215-ECE0-B8A4379460F9">
+<createdBy>erick</createdBy>
+<createdTime>2023-03-15 22:53:06 UTC</createdTime>
+<ownerDesignName>Diagrama Logico</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT024</logicalDatatype>
+<dataTypeSize>150 CHAR</dataTypeSize>
+<ownDataTypeParameters>150 CHAR,,</ownDataTypeParameters>
+</Attribute>
+<Attribute name="REC_FIRMA_ADMINISTRATIVO" id="ED14E45F-532F-1D9D-1E51-EE6FA18D0008">
+<createdBy>perro</createdBy>
+<createdTime>2023-04-19 04:12:27 UTC</createdTime>
+<ownerDesignName>Diagrama Logico</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT024</logicalDatatype>
+<dataTypeSize>150 CHAR</dataTypeSize>
+<ownDataTypeParameters>150 CHAR,,</ownDataTypeParameters>
+</Attribute>
+</attributes>
+<identifiers itemClass="oracle.dbtools.crest.model.design.logical.CandidateKey">
+<identifier id="78D76F1B-1D80-599C-3009-1AC4BC6118E3" name="RECIBO PK">
+<createdBy>edwin</createdBy>
+<createdTime>2023-03-09 15:04:15 UTC</createdTime>
+<ownerDesignName>Diagrama Logico</ownerDesignName>
+<pk>true</pk>
+<newElementsIDs>6B1E3301-BC22-3EF8-C633-23287ED122B1</newElementsIDs>
+<usedAttributes>
+<attributeRef>6B1E3301-BC22-3EF8-C633-23287ED122B1</attributeRef>
+</usedAttributes>
+</identifier>
+</identifiers>
+</Entity>

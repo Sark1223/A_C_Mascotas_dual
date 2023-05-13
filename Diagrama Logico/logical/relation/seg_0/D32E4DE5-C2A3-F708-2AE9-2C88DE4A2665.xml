@@ -1,0 +1,75 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<Relation class="oracle.dbtools.crest.model.design.logical.Relation" name="Relation_7" directorySegmentName="seg_0" id="D32E4DE5-C2A3-F708-2AE9-2C88DE4A2665">
+<createdBy>erick</createdBy>
+<createdTime>2023-03-15 23:09:46 UTC</createdTime>
+<ownerDesignName>Diagrama Logico</ownerDesignName>
+<engineerTo>
+<item key="B851F338-DA32-19EC-D8D5-74047320FCF2" value="true"/>
+</engineerTo>
+<sourcePk>B017800B-D92A-276F-8A74-C5025375F84A</sourcePk>
+<identifying>false</identifying>
+<nameOnSource>genera</nameOnSource>
+<nameOnTarget>tiene</nameOnTarget>
+<optionalSource>true</optionalSource>
+<optionalTarget>false</optionalTarget>
+<sourceCardinality>1</sourceCardinality>
+<sourceEntity>D529BB37-6F53-E4B9-FB8D-54BB4BAF3C71</sourceEntity>
+<targetCardinalityString>*</targetCardinalityString>
+<targetEntity>1C71D91D-9341-5DA2-17A2-2F304646A92F</targetEntity>
+<transferable>true</transferable>
+<deleteRule>NO ACTION</deleteRule>
+<attributes itemClass="oracle.dbtools.crest.model.design.logical.Attribute">
+<attribute name="SC_APATERNO" id="AC88A184-0D83-ABF4-23C1-B7968BA32344">
+<createdBy>perro</createdBy>
+<createdTime>2023-04-13 02:40:01 UTC</createdTime>
+<ownerDesignName>Diagrama Logico</ownerDesignName>
+<engineerTo>
+<item key="B851F338-DA32-19EC-D8D5-74047320FCF2" value="true"/>
+</engineerTo>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT024</logicalDatatype>
+<dataTypeSize>50</dataTypeSize>
+<ownDataTypeParameters>50,,</ownDataTypeParameters>
+</attribute>
+<attribute name="SC_AMATERNO" id="08C429EC-A113-B156-A9F8-FD82DAD6D67C">
+<createdBy>perro</createdBy>
+<createdTime>2023-04-13 02:40:01 UTC</createdTime>
+<ownerDesignName>Diagrama Logico</ownerDesignName>
+<engineerTo>
+<item key="B851F338-DA32-19EC-D8D5-74047320FCF2" value="true"/>
+</engineerTo>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT024</logicalDatatype>
+<dataTypeSize>50</dataTypeSize>
+<ownDataTypeParameters>50,,</ownDataTypeParameters>
+</attribute>
+<attribute name="SC_NOMBRE(S)" id="EE65434E-F829-8E1E-8295-A9BDF3D268D2">
+<createdBy>perro</createdBy>
+<createdTime>2023-04-13 02:40:01 UTC</createdTime>
+<ownerDesignName>Diagrama Logico</ownerDesignName>
+<engineerTo>
+<item key="B851F338-DA32-19EC-D8D5-74047320FCF2" value="true"/>
+</engineerTo>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT024</logicalDatatype>
+<dataTypeSize>50</dataTypeSize>
+<ownDataTypeParameters>50,,</ownDataTypeParameters>
+</attribute>
+<attribute name="SC_RFC" id="BBDCBC75-EFD3-1E31-7F96-64A21EF5B062">
+<createdBy>perro</createdBy>
+<createdTime>2023-04-13 02:40:01 UTC</createdTime>
+<ownerDesignName>Diagrama Logico</ownerDesignName>
+<engineerTo>
+<item key="B851F338-DA32-19EC-D8D5-74047320FCF2" value="true"/>
+</engineerTo>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT024</logicalDatatype>
+<dataTypeSize>16 CHAR</dataTypeSize>
+<ownDataTypeParameters>16 CHAR,,</ownDataTypeParameters>
+</attribute>
+</attributes>
+</Relation>

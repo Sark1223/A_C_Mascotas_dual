@@ -1,0 +1,65 @@
+C:\Users\edwin\OneDrive\Desktop\Semestre 4\Fundamentos de bases de datos\p1\Proyecto-DB\P1\A.C. Mascotas Vulnerables - DB\bin\Debug\A.C.Mascotas_Vulnerables___DB.exe.config
+C:\Users\edwin\OneDrive\Desktop\Semestre 4\Fundamentos de bases de datos\p1\Proyecto-DB\P1\A.C. Mascotas Vulnerables - DB\bin\Debug\A.C.Mascotas_Vulnerables___DB.exe
+C:\Users\edwin\OneDrive\Desktop\Semestre 4\Fundamentos de bases de datos\p1\Proyecto-DB\P1\A.C. Mascotas Vulnerables - DB\bin\Debug\A.C.Mascotas_Vulnerables___DB.pdb
+C:\Users\edwin\OneDrive\Desktop\Semestre 4\Fundamentos de bases de datos\p1\Proyecto-DB\P1\A.C. Mascotas Vulnerables - DB\obj\Debug\A.C. Mascotas Vulnerables - DB.csproj.AssemblyReference.cache
+C:\Users\edwin\OneDrive\Desktop\Semestre 4\Fundamentos de bases de datos\p1\Proyecto-DB\P1\A.C. Mascotas Vulnerables - DB\obj\Debug\A.C. Mascotas Vulnerables - DB.csproj.SuggestedBindingRedirects.cache
+C:\Users\edwin\OneDrive\Desktop\Semestre 4\Fundamentos de bases de datos\p1\Proyecto-DB\P1\A.C. Mascotas Vulnerables - DB\obj\Debug\A.C.Mascotas_Vulnerables___DB.Properties.Resources.resources
+C:\Users\edwin\OneDrive\Desktop\Semestre 4\Fundamentos de bases de datos\p1\Proyecto-DB\P1\A.C. Mascotas Vulnerables - DB\obj\Debug\A.C. Mascotas Vulnerables - DB.csproj.GenerateResource.cache
+C:\Users\edwin\OneDrive\Desktop\Semestre 4\Fundamentos de bases de datos\p1\Proyecto-DB\P1\A.C. Mascotas Vulnerables - DB\obj\Debug\A.C. Mascotas Vulnerables - DB.csproj.CoreCompileInputs.cache
+C:\Users\edwin\OneDrive\Desktop\Semestre 4\Fundamentos de bases de datos\p1\Proyecto-DB\P1\A.C. Mascotas Vulnerables - DB\obj\Debug\A.C.Mascotas_Vulnerables___DB.exe
+C:\Users\edwin\OneDrive\Desktop\Semestre 4\Fundamentos de bases de datos\p1\Proyecto-DB\P1\A.C. Mascotas Vulnerables - DB\obj\Debug\A.C.Mascotas_Vulnerables___DB.pdb
+C:\Users\edwin\OneDrive\Desktop\Semestre 4\Fundamentos de bases de datos\p1\Proyecto-DB\P1\A.C. Mascotas Vulnerables - DB\bin\Debug\Bunifu_UI_v1.52.dll
+C:\Users\edwin\OneDrive\Desktop\Semestre 4\Fundamentos de bases de datos\p1\Proyecto-DB\P1\A.C. Mascotas Vulnerables - DB\obj\Debug\A.C. Mascotas Vulnerables - DB.csproj.CopyComplete
+C:\Users\perro\OneDrive\Documentos\GitHub\Proyecto-DB\P1\A.C. Mascotas Vulnerables - DB\bin\Debug\A.C.Mascotas_Vulnerables___DB.exe.config
+C:\Users\perro\OneDrive\Documentos\GitHub\Proyecto-DB\P1\A.C. Mascotas Vulnerables - DB\bin\Debug\A.C.Mascotas_Vulnerables___DB.exe
+C:\Users\perro\OneDrive\Documentos\GitHub\Proyecto-DB\P1\A.C. Mascotas Vulnerables - DB\bin\Debug\A.C.Mascotas_Vulnerables___DB.pdb
+C:\Users\perro\OneDrive\Documentos\GitHub\Proyecto-DB\P1\A.C. Mascotas Vulnerables - DB\obj\Debug\A.C. Mascotas Vulnerables - DB.csproj.AssemblyReference.cache
+C:\Users\perro\OneDrive\Documentos\GitHub\Proyecto-DB\P1\A.C. Mascotas Vulnerables - DB\obj\Debug\A.C. Mascotas Vulnerables - DB.csproj.SuggestedBindingRedirects.cache
+C:\Users\perro\OneDrive\Documentos\GitHub\Proyecto-DB\P1\A.C. Mascotas Vulnerables - DB\obj\Debug\A.C.Mascotas_Vulnerables___DB.InicioSesion.resources
+C:\Users\perro\OneDrive\Documentos\GitHub\Proyecto-DB\P1\A.C. Mascotas Vulnerables - DB\obj\Debug\A.C.Mascotas_Vulnerables___DB.Properties.Resources.resources
+C:\Users\perro\OneDrive\Documentos\GitHub\Proyecto-DB\P1\A.C. Mascotas Vulnerables - DB\obj\Debug\A.C. Mascotas Vulnerables - DB.csproj.GenerateResource.cache
+C:\Users\perro\OneDrive\Documentos\GitHub\Proyecto-DB\P1\A.C. Mascotas Vulnerables - DB\obj\Debug\A.C. Mascotas Vulnerables - DB.csproj.CoreCompileInputs.cache
+C:\Users\perro\OneDrive\Documentos\GitHub\Proyecto-DB\P1\A.C. Mascotas Vulnerables - DB\obj\Debug\A.C. Mascotas Vulnerables - DB.csproj.CopyComplete
+C:\Users\perro\OneDrive\Documentos\GitHub\Proyecto-DB\P1\A.C. Mascotas Vulnerables - DB\obj\Debug\A.C.Mascotas_Vulnerables___DB.exe
+C:\Users\perro\OneDrive\Documentos\GitHub\Proyecto-DB\P1\A.C. Mascotas Vulnerables - DB\obj\Debug\A.C.Mascotas_Vulnerables___DB.pdb
+C:\Users\perro\OneDrive\Documentos\GitHub\Proyecto-DB\P1\A.C. Mascotas Vulnerables - DB\obj\Debug\A.C.Mascotas_Vulnerables___DB.frmMenu_Principal.resources
+C:\Users\perro\OneDrive\Documentos\GitHub\Proyecto-DB\P1\A.C. Mascotas Vulnerables - DB\obj\Debug\A.C.Mascotas_Vulnerables___DB.PL.frmAportacion.resources
+C:\Users\edwin\OneDrive\Desktop\Semestre 4\Fundamentos de bases de datos\p1\Proyecto-DB\P1\A.C. Mascotas Vulnerables - DB\obj\Debug\A.C.Mascotas_Vulnerables___DB.PL.frmAportacion.resources
+C:\Users\edwin\OneDrive\Desktop\Semestre 4\Fundamentos de bases de datos\p1\Proyecto-DB\P1\A.C. Mascotas Vulnerables - DB\obj\Debug\A.C.Mascotas_Vulnerables___DB.frmMenu_Principal.resources
+C:\Users\edwin\OneDrive\Desktop\Semestre 4\Fundamentos de bases de datos\p1\Proyecto-DB\P1\A.C. Mascotas Vulnerables - DB\obj\Debug\A.C.Mascotas_Vulnerables___DB.InicioSesion.resources
+C:\Users\edwin\OneDrive\Desktop\Semestre 4\Fundamentos de bases de datos\p1\Proyecto-DB\P1\A.C. Mascotas Vulnerables - DB\obj\Debug\A.C.Mascotas_Vulnerables___DB.PL.frmSocios.resources
+C:\Users\edwin\OneDrive\Desktop\Semestre 4\Fundamentos de bases de datos\p1\Proyecto-DB\P1\A.C. Mascotas Vulnerables - DB\obj\Debug\A.C.Mascotas_Vulnerables___DB.PL.frmNuevaAportacion.resources
+C:\Users\Geo\Downloads\Proyecto-DB-main\P1\A.C. Mascotas Vulnerables - DB\bin\Debug\A.C.Mascotas_Vulnerables___DB.exe.config
+C:\Users\Geo\Downloads\Proyecto-DB-main\P1\A.C. Mascotas Vulnerables - DB\bin\Debug\A.C.Mascotas_Vulnerables___DB.exe
+C:\Users\Geo\Downloads\Proyecto-DB-main\P1\A.C. Mascotas Vulnerables - DB\bin\Debug\A.C.Mascotas_Vulnerables___DB.pdb
+C:\Users\Geo\Downloads\Proyecto-DB-main\P1\A.C. Mascotas Vulnerables - DB\obj\Debug\A.C. Mascotas Vulnerables - DB.csproj.AssemblyReference.cache
+C:\Users\Geo\Downloads\Proyecto-DB-main\P1\A.C. Mascotas Vulnerables - DB\obj\Debug\A.C. Mascotas Vulnerables - DB.csproj.SuggestedBindingRedirects.cache
+C:\Users\Geo\Downloads\Proyecto-DB-main\P1\A.C. Mascotas Vulnerables - DB\obj\Debug\A.C.Mascotas_Vulnerables___DB.PL.frmAportacion.resources
+C:\Users\Geo\Downloads\Proyecto-DB-main\P1\A.C. Mascotas Vulnerables - DB\obj\Debug\A.C.Mascotas_Vulnerables___DB.PL.frmBuscador.resources
+C:\Users\Geo\Downloads\Proyecto-DB-main\P1\A.C. Mascotas Vulnerables - DB\obj\Debug\A.C.Mascotas_Vulnerables___DB.frmMenu_Principal.resources
+C:\Users\Geo\Downloads\Proyecto-DB-main\P1\A.C. Mascotas Vulnerables - DB\obj\Debug\A.C.Mascotas_Vulnerables___DB.InicioSesion.resources
+C:\Users\Geo\Downloads\Proyecto-DB-main\P1\A.C. Mascotas Vulnerables - DB\obj\Debug\A.C.Mascotas_Vulnerables___DB.PL.frmNuevaAportacion.resources
+C:\Users\Geo\Downloads\Proyecto-DB-main\P1\A.C. Mascotas Vulnerables - DB\obj\Debug\A.C.Mascotas_Vulnerables___DB.PL.frmSocios.resources
+C:\Users\Geo\Downloads\Proyecto-DB-main\P1\A.C. Mascotas Vulnerables - DB\obj\Debug\A.C.Mascotas_Vulnerables___DB.Properties.Resources.resources
+C:\Users\Geo\Downloads\Proyecto-DB-main\P1\A.C. Mascotas Vulnerables - DB\obj\Debug\A.C. Mascotas Vulnerables - DB.csproj.GenerateResource.cache
+C:\Users\Geo\Downloads\Proyecto-DB-main\P1\A.C. Mascotas Vulnerables - DB\obj\Debug\A.C. Mascotas Vulnerables - DB.csproj.CoreCompileInputs.cache
+C:\Users\Geo\Downloads\Proyecto-DB-main\P1\A.C. Mascotas Vulnerables - DB\obj\Debug\A.C. Mascotas Vulnerables - DB.csproj.CopyComplete
+C:\Users\Geo\Downloads\Proyecto-DB-main\P1\A.C. Mascotas Vulnerables - DB\obj\Debug\A.C.Mascotas_Vulnerables___DB.exe
+C:\Users\Geo\Downloads\Proyecto-DB-main\P1\A.C. Mascotas Vulnerables - DB\obj\Debug\A.C.Mascotas_Vulnerables___DB.pdb
+C:\Users\perro\OneDrive\Documentos\GitHub\Proyecto-DB\P1\A.C. Mascotas Vulnerables - DB\obj\Debug\A.C.Mascotas_Vulnerables___DB.PL.frmBuscador.resources
+C:\Users\perro\OneDrive\Documentos\GitHub\Proyecto-DB\P1\A.C. Mascotas Vulnerables - DB\obj\Debug\A.C.Mascotas_Vulnerables___DB.PL.frmNuevaAportacion.resources
+C:\Users\perro\OneDrive\Documentos\GitHub\Proyecto-DB\P1\A.C. Mascotas Vulnerables - DB\obj\Debug\A.C.Mascotas_Vulnerables___DB.PL.frmEdit_Socios.resources
+C:\Users\perro\OneDrive\Documentos\GitHub\Proyecto-DB\P1\A.C. Mascotas Vulnerables - DB\obj\Debug\A.C.Mascotas_Vulnerables___DB.PL.frmEdit_Usuario.resources
+C:\Users\perro\OneDrive\Documentos\GitHub\Proyecto-DB\P1\A.C. Mascotas Vulnerables - DB\obj\Debug\A.C.Mascotas_Vulnerables___DB.PL.frmUsuarios.resources
+C:\Users\perro\OneDrive\Documentos\GitHub\Proyecto-DB\P1\A.C. Mascotas Vulnerables - DB\obj\Debug\A.C.Mascotas_Vulnerables___DB.PL.frmLugar.resources
+C:\Users\perro\OneDrive\Documentos\GitHub\Proyecto-DB\P1\A.C. Mascotas Vulnerables - DB\obj\Debug\A.C.Mascotas_Vulnerables___DB.PL.frmEstadoRecibo.resources
+C:\Users\perro\OneDrive\Documentos\GitHub\Proyecto-DB\P1\A.C. Mascotas Vulnerables - DB\obj\Debug\A.C.Mascotas_Vulnerables___DB.PL.frmHistorial.resources
+C:\Users\perro\OneDrive\Documentos\GitHub\Proyecto-DB\P1\A.C. Mascotas Vulnerables - DB\obj\Debug\A.C.Mascotas_Vulnerables___DB.PL.frmSocios.resources
+C:\Users\edwin\OneDrive\Desktop\Semestre 4\Fundamentos de bases de datos\p1\Proyecto-DB\P1\A.C. Mascotas Vulnerables - DB\obj\Debug\A.C.Mascotas_Vulnerables___DB.PL.frmBuscador.resources
+C:\Users\edwin\OneDrive\Desktop\Semestre 4\Fundamentos de bases de datos\p1\Proyecto-DB\P1\A.C. Mascotas Vulnerables - DB\obj\Debug\A.C.Mascotas_Vulnerables___DB.PL.frmEstadoRecibo.resources
+C:\Users\edwin\OneDrive\Desktop\Semestre 4\Fundamentos de bases de datos\p1\Proyecto-DB\P1\A.C. Mascotas Vulnerables - DB\obj\Debug\A.C.Mascotas_Vulnerables___DB.PL.frmHistorial.resources
+C:\Users\edwin\OneDrive\Desktop\Semestre 4\Fundamentos de bases de datos\p1\Proyecto-DB\P1\A.C. Mascotas Vulnerables - DB\obj\Debug\A.C.Mascotas_Vulnerables___DB.PL.frmLugar.resources
+C:\Users\edwin\OneDrive\Desktop\Semestre 4\Fundamentos de bases de datos\p1\Proyecto-DB\P1\A.C. Mascotas Vulnerables - DB\obj\Debug\A.C.Mascotas_Vulnerables___DB.PL.frmEdit_Socios.resources
+C:\Users\edwin\OneDrive\Desktop\Semestre 4\Fundamentos de bases de datos\p1\Proyecto-DB\P1\A.C. Mascotas Vulnerables - DB\obj\Debug\A.C.Mascotas_Vulnerables___DB.PL.frmEdit_Usuario.resources
+C:\Users\edwin\OneDrive\Desktop\Semestre 4\Fundamentos de bases de datos\p1\Proyecto-DB\P1\A.C. Mascotas Vulnerables - DB\obj\Debug\A.C.Mascotas_Vulnerables___DB.PL.frmUsuarios.resources
+C:\Users\perro\OneDrive\Documentos\GitHub\Proyecto-DB\P1\A.C. Mascotas Vulnerables - DB\obj\Debug\A.C.Mascotas_Vulnerables___DB.PL.frmPeriodo.resources
